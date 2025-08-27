@@ -1,0 +1,228 @@
+UK Counties Dark Maps - Generated Files
+=====================================
+
+Total files: 219
+Color scheme: Black shapes with white borders
+Resolution: 300 DPI
+Data source: ONS May 2023
+
+Files:
+  1. 000_UK_ALL_DARK_OVERVIEW.png
+  2. 001_Hartlepool.png
+  3. 002_Middlesbrough.png
+  4. 003_Redcar_and_Cleveland.png
+  5. 004_Stockton-on-Tees.png
+  6. 005_Darlington.png
+  7. 006_Halton.png
+  8. 007_Warrington.png
+  9. 008_Blackburn_with_Darwen.png
+ 10. 009_Blackpool.png
+ 11. 010_Kingston_upon_Hull_City_of.png
+ 12. 011_East_Riding_of_Yorkshire.png
+ 13. 012_North_East_Lincolnshire.png
+ 14. 013_North_Lincolnshire.png
+ 15. 014_York.png
+ 16. 015_Derby.png
+ 17. 016_Leicester.png
+ 18. 017_Rutland.png
+ 19. 018_Nottingham.png
+ 20. 019_Herefordshire_County_of.png
+ 21. 020_Telford_and_Wrekin.png
+ 22. 021_Stoke-on-Trent.png
+ 23. 022_Bath_and_North_East_Somerset.png
+ 24. 023_Bristol_City_of.png
+ 25. 024_North_Somerset.png
+ 26. 025_South_Gloucestershire.png
+ 27. 026_Plymouth.png
+ 28. 027_Torbay.png
+ 29. 028_Swindon.png
+ 30. 029_Peterborough.png
+ 31. 030_Luton.png
+ 32. 031_Southend-on-Sea.png
+ 33. 032_Thurrock.png
+ 34. 033_Medway.png
+ 35. 034_Bracknell_Forest.png
+ 36. 035_West_Berkshire.png
+ 37. 036_Reading.png
+ 38. 037_Slough.png
+ 39. 038_Windsor_and_Maidenhead.png
+ 40. 039_Wokingham.png
+ 41. 040_Milton_Keynes.png
+ 42. 041_Brighton_and_Hove.png
+ 43. 042_Portsmouth.png
+ 44. 043_Southampton.png
+ 45. 044_Isle_of_Wight.png
+ 46. 045_County_Durham.png
+ 47. 046_Cheshire_East.png
+ 48. 047_Cheshire_West_and_Chester.png
+ 49. 048_Shropshire.png
+ 50. 049_Cornwall.png
+ 51. 050_Isles_of_Scilly.png
+ 52. 051_Wiltshire.png
+ 53. 052_Bedford.png
+ 54. 053_Central_Bedfordshire.png
+ 55. 054_Northumberland.png
+ 56. 055_Bournemouth_Christchurch_and_Poole.png
+ 57. 056_Dorset.png
+ 58. 057_Buckinghamshire.png
+ 59. 058_North_Northamptonshire.png
+ 60. 059_West_Northamptonshire.png
+ 61. 060_Cumberland.png
+ 62. 061_Westmorland_and_Furness.png
+ 63. 062_North_Yorkshire.png
+ 64. 063_Somerset.png
+ 65. 064_Bolton.png
+ 66. 065_Bury.png
+ 67. 066_Manchester.png
+ 68. 067_Oldham.png
+ 69. 068_Rochdale.png
+ 70. 069_Salford.png
+ 71. 070_Stockport.png
+ 72. 071_Tameside.png
+ 73. 072_Trafford.png
+ 74. 073_Wigan.png
+ 75. 074_Knowsley.png
+ 76. 075_Liverpool.png
+ 77. 076_St._Helens.png
+ 78. 077_Sefton.png
+ 79. 078_Wirral.png
+ 80. 079_Barnsley.png
+ 81. 080_Doncaster.png
+ 82. 081_Rotherham.png
+ 83. 082_Sheffield.png
+ 84. 083_Newcastle_upon_Tyne.png
+ 85. 084_North_Tyneside.png
+ 86. 085_South_Tyneside.png
+ 87. 086_Sunderland.png
+ 88. 087_Birmingham.png
+ 89. 088_Coventry.png
+ 90. 089_Dudley.png
+ 91. 090_Sandwell.png
+ 92. 091_Solihull.png
+ 93. 092_Walsall.png
+ 94. 093_Wolverhampton.png
+ 95. 094_Bradford.png
+ 96. 095_Calderdale.png
+ 97. 096_Kirklees.png
+ 98. 097_Leeds.png
+ 99. 098_Wakefield.png
+100. 099_Gateshead.png
+101. 100_City_of_London.png
+102. 101_Barking_and_Dagenham.png
+103. 102_Barnet.png
+104. 103_Bexley.png
+105. 104_Brent.png
+106. 105_Bromley.png
+107. 106_Camden.png
+108. 107_Croydon.png
+109. 108_Ealing.png
+110. 109_Enfield.png
+111. 110_Greenwich.png
+112. 111_Hackney.png
+113. 112_Hammersmith_and_Fulham.png
+114. 113_Haringey.png
+115. 114_Harrow.png
+116. 115_Havering.png
+117. 116_Hillingdon.png
+118. 117_Hounslow.png
+119. 118_Islington.png
+120. 119_Kensington_and_Chelsea.png
+121. 120_Kingston_upon_Thames.png
+122. 121_Lambeth.png
+123. 122_Lewisham.png
+124. 123_Merton.png
+125. 124_Newham.png
+126. 125_Redbridge.png
+127. 126_Richmond_upon_Thames.png
+128. 127_Southwark.png
+129. 128_Sutton.png
+130. 129_Tower_Hamlets.png
+131. 130_Waltham_Forest.png
+132. 131_Wandsworth.png
+133. 132_Westminster.png
+134. 133_Cambridgeshire.png
+135. 134_Derbyshire.png
+136. 135_Devon.png
+137. 136_East_Sussex.png
+138. 137_Essex.png
+139. 138_Gloucestershire.png
+140. 139_Hampshire.png
+141. 140_Hertfordshire.png
+142. 141_Kent.png
+143. 142_Lancashire.png
+144. 143_Leicestershire.png
+145. 144_Lincolnshire.png
+146. 145_Norfolk.png
+147. 146_Nottinghamshire.png
+148. 147_Oxfordshire.png
+149. 148_Staffordshire.png
+150. 149_Suffolk.png
+151. 150_Surrey.png
+152. 151_Warwickshire.png
+153. 152_West_Sussex.png
+154. 153_Worcestershire.png
+155. 154_Antrim_and_Newtownabbey.png
+156. 155_Armagh_City_Banbridge_and_Craigavon.png
+157. 156_Belfast.png
+158. 157_Causeway_Coast_and_Glens.png
+159. 158_Derry_City_and_Strabane.png
+160. 159_Fermanagh_and_Omagh.png
+161. 160_Lisburn_and_Castlereagh.png
+162. 161_Mid_and_East_Antrim.png
+163. 162_Mid_Ulster.png
+164. 163_Newry_Mourne_and_Down.png
+165. 164_Ards_and_North_Down.png
+166. 165_Clackmannanshire.png
+167. 166_Dumfries_and_Galloway.png
+168. 167_East_Ayrshire.png
+169. 168_East_Lothian.png
+170. 169_East_Renfrewshire.png
+171. 170_Na_h-Eileanan_Siar.png
+172. 171_Falkirk.png
+173. 172_Highland.png
+174. 173_Inverclyde.png
+175. 174_Midlothian.png
+176. 175_Moray.png
+177. 176_North_Ayrshire.png
+178. 177_Orkney_Islands.png
+179. 178_Scottish_Borders.png
+180. 179_Shetland_Islands.png
+181. 180_South_Ayrshire.png
+182. 181_South_Lanarkshire.png
+183. 182_Stirling.png
+184. 183_Aberdeen_City.png
+185. 184_Aberdeenshire.png
+186. 185_Argyll_and_Bute.png
+187. 186_City_of_Edinburgh.png
+188. 187_Renfrewshire.png
+189. 188_West_Dunbartonshire.png
+190. 189_West_Lothian.png
+191. 190_Angus.png
+192. 191_Dundee_City.png
+193. 192_East_Dunbartonshire.png
+194. 193_Fife.png
+195. 194_Perth_and_Kinross.png
+196. 195_Glasgow_City.png
+197. 196_North_Lanarkshire.png
+198. 197_Isle_of_Anglesey.png
+199. 198_Gwynedd.png
+200. 199_Conwy.png
+201. 200_Denbighshire.png
+202. 201_Flintshire.png
+203. 202_Wrexham.png
+204. 203_Ceredigion.png
+205. 204_Pembrokeshire.png
+206. 205_Carmarthenshire.png
+207. 206_Swansea.png
+208. 207_Neath_Port_Talbot.png
+209. 208_Bridgend.png
+210. 209_Vale_of_Glamorgan.png
+211. 210_Cardiff.png
+212. 211_Rhondda_Cynon_Taf.png
+213. 212_Caerphilly.png
+214. 213_Blaenau_Gwent.png
+215. 214_Torfaen.png
+216. 215_Monmouthshire.png
+217. 216_Newport.png
+218. 217_Powys.png
+219. 218_Merthyr_Tydfil.png
